@@ -1,0 +1,23 @@
+{
+  "name": "frontend",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "typecheck": "vue-tsc --noEmit"
+  },
+  "dependencies": {
+    "@caido/primevue": "0.1.2",
+    "highlight.js": "^11.11.1",
+    "js-beautify": "^1.15.4",
+    "primevue": "4.1.0",
+    "vue": "3.4.37"
+  },
+  "devDependencies": {
+    "@caido/sdk-backend": "^0.51.1",
+    "@caido/sdk-frontend": "^0.51.1",
+    "@codemirror/view": "6.28.1",
+    "@types/js-beautify": "^1.14.3",
+    "backend": "workspace:*",
+    "vue-tsc": "2.0.29"
+  }
+}
