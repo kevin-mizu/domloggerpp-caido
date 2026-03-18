@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/kevin-mizu/domloggerpp/main/.github/banner.png" width="80%"><br>
     A Caido plugin to monitor, intercept, and debug JavaScript sinks based on customizable configurations.
     <br>
-    <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/kevin-mizu/domloggerpp">
+    <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/kevin-mizu/domloggerpp-caido">
     <a href="https://twitter.com/intent/follow?screen_name=kevin_mizu" title="Follow"><img src="https://img.shields.io/twitter/follow/podalirius_?label=kevin_mizu&style=social"></a>
     <br>
 </p>
